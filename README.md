@@ -1,6 +1,6 @@
 FoodDeliveryDatabase
 
-This code is used to implement a database of food delivery customers.
+This code is used to implement a database of food delivery customers
 
 The purposes of each of the following files are stated below:
 
@@ -9,6 +9,7 @@ foodDelivery.sql - to create a database called "foodDatabase," create a table ca
 
 
 Run the source code by typing the following at the prompt $:
+
 $ mysql -u user_name -p < foodDelivery.sql > output.txt
 
 Code is available upon request
